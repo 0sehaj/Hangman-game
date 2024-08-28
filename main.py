@@ -1,5 +1,5 @@
 #Hangman game
-#author:Sehajleen Kaur
+#author: Sehaj
 
 #make a list of names that the user has to guess randomly
 x = ("dog","meow","magic","horse","dragon","cow","mouse","beans","shark")
